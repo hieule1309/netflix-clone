@@ -1,0 +1,12 @@
+.result__search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    min-height: 700px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    align-content: flex-start;
+}
+.item__search {
+    margin: 20px 0;
+}
